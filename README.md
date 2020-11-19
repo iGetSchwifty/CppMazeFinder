@@ -15,3 +15,8 @@ Run
 ```
 ./MazeSolver
 ```
+
+
+![Maze](maze.png)
+
+![Solution](output.png)
